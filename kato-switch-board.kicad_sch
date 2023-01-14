@@ -5439,28 +5439,28 @@
       (reference "U3") (unit 1) (value "74HC238") (footprint "Package_SO:TSSOP-16_4.4x5mm_P0.65mm")
     )
     (path "/bdd9bb12-15c6-4280-ba5e-1a8d869660ac/362664d2-1e38-4990-9d18-ad150c22b4f5"
-      (reference "U4") (unit 1) (value "TLC59282DBQR...SM16206") (footprint "Package_SO:QSOP-24_3.9x8.7mm_P0.635mm")
+      (reference "U4") (unit 1) (value "TLC59282DBQR...SM16206") (footprint "_my:QSOP-24_3.9x8.7mm_P0.635mm_rounded_pads")
     )
     (path "/e46588a5-d33f-4ffd-8179-f7e8940663be/362664d2-1e38-4990-9d18-ad150c22b4f5"
-      (reference "U5") (unit 1) (value "TLC59282DBQR...SM16206") (footprint "Package_SO:QSOP-24_3.9x8.7mm_P0.635mm")
+      (reference "U5") (unit 1) (value "TLC59282DBQR...SM16206") (footprint "_my:QSOP-24_3.9x8.7mm_P0.635mm_rounded_pads")
     )
     (path "/0e95f1c8-be6b-49e6-b95a-c01fcddd2bef/362664d2-1e38-4990-9d18-ad150c22b4f5"
-      (reference "U6") (unit 1) (value "TLC59282DBQR...SM16206") (footprint "Package_SO:QSOP-24_3.9x8.7mm_P0.635mm")
+      (reference "U6") (unit 1) (value "TLC59282DBQR...SM16206") (footprint "_my:QSOP-24_3.9x8.7mm_P0.635mm_rounded_pads")
     )
     (path "/6b273370-77d9-4515-902a-02c2a8259bb9/362664d2-1e38-4990-9d18-ad150c22b4f5"
-      (reference "U7") (unit 1) (value "TLC59282DBQR...SM16206") (footprint "Package_SO:QSOP-24_3.9x8.7mm_P0.635mm")
+      (reference "U7") (unit 1) (value "TLC59282DBQR...SM16206") (footprint "_my:QSOP-24_3.9x8.7mm_P0.635mm_rounded_pads")
     )
     (path "/fdbf6061-f466-4d40-bbc0-3c70b853a686/362664d2-1e38-4990-9d18-ad150c22b4f5"
-      (reference "U8") (unit 1) (value "TLC59282DBQR...SM16206") (footprint "Package_SO:QSOP-24_3.9x8.7mm_P0.635mm")
+      (reference "U8") (unit 1) (value "TLC59282DBQR...SM16206") (footprint "_my:QSOP-24_3.9x8.7mm_P0.635mm_rounded_pads")
     )
     (path "/6acb4a6c-b1db-42c8-a925-721926fe18af/362664d2-1e38-4990-9d18-ad150c22b4f5"
-      (reference "U9") (unit 1) (value "TLC59282DBQR...SM16206") (footprint "Package_SO:QSOP-24_3.9x8.7mm_P0.635mm")
+      (reference "U9") (unit 1) (value "TLC59282DBQR...SM16206") (footprint "_my:QSOP-24_3.9x8.7mm_P0.635mm_rounded_pads")
     )
     (path "/d3c604a1-7f5c-4e36-a4b3-e1434f6baddb/362664d2-1e38-4990-9d18-ad150c22b4f5"
-      (reference "U10") (unit 1) (value "TLC59282DBQR...SM16206") (footprint "Package_SO:QSOP-24_3.9x8.7mm_P0.635mm")
+      (reference "U10") (unit 1) (value "TLC59282DBQR...SM16206") (footprint "_my:QSOP-24_3.9x8.7mm_P0.635mm_rounded_pads")
     )
     (path "/5a30c2a9-3761-4ce5-9633-07cb35fbfe5b/362664d2-1e38-4990-9d18-ad150c22b4f5"
-      (reference "U11") (unit 1) (value "TLC59282DBQR...SM16206") (footprint "Package_SO:QSOP-24_3.9x8.7mm_P0.635mm")
+      (reference "U11") (unit 1) (value "TLC59282DBQR...SM16206") (footprint "_my:QSOP-24_3.9x8.7mm_P0.635mm_rounded_pads")
     )
     (path "/678e37e1-4fd3-4610-983e-95eb80874f2e/40c89974-598a-4435-940a-bbaf1b6ff90c"
       (reference "U12") (unit 1) (value "PCA9617ADPJ") (footprint "Package_SO:TSSOP-8_3x3mm_P0.65mm")
