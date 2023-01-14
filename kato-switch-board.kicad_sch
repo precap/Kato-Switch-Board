@@ -5358,10 +5358,10 @@
       (reference "JP2") (unit 1) (value "Jumper") (footprint "Jumper:SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm")
     )
     (path "/678e37e1-4fd3-4610-983e-95eb80874f2e/e8d1c759-358a-487c-9ab9-2e62e59cfdc0"
-      (reference "JP3") (unit 1) (value "SolderJumper_3_Bridged12") (footprint "Jumper:SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm")
+      (reference "JP3") (unit 1) (value "Jumper") (footprint "Jumper:SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm")
     )
     (path "/678e37e1-4fd3-4610-983e-95eb80874f2e/b36a877b-c4ed-43e6-9351-82f499bacb1e"
-      (reference "JP4") (unit 1) (value "SolderJumper_3_Bridged12") (footprint "Jumper:SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm")
+      (reference "JP4") (unit 1) (value "Jumper") (footprint "Jumper:SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm")
     )
     (path "/d38d0a5a-6965-459d-ae7e-c62c39f54adf"
       (reference "R1") (unit 1) (value "2k2") (footprint "Resistor_SMD:R_0402_1005Metric")
